@@ -1,7 +1,15 @@
 {
   "name": "react-hooks-box",
-  "version": "0.0.3",
-  "keywords": [],
+  "version": "0.0.5",
+  "keywords": [
+    "hook",
+    "react hooks box",
+    "useAxios",
+    "use axios",
+    "custom hook",
+    "after mount axios",
+    "typescript hook"
+  ],
   "description": "React hooks box",
   "author": "Achraf Mahha",
   "repository": {
